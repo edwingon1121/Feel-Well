@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/f0e3350ac34ef562e6c7727e7e0bc93ec2165b6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_e475a741a7eb57570859ace6704c0426081458ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/ff19606d3e0a16133ed4acbf16ed5387bb5481bb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_3d047aafab8239eab4c3702cd346f613f5feac13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/e5726c5ea87a51b8be129d080f489dde73a0d438/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_0ce0af20f40587950d06b40b1c7cd80cda84e742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/d9414a2d3de582b6cfe91e9b3565eb493f47f67d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_fb6ef44c8075cf304b1a4a89fa16710c088e769b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/cca0851f04280667c64b7ed49af00887c173362f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7058bce7e91ddb18e2e07b0b699019039b87e47b">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_ca565640d211a2cabdc06315ac69b011858d49f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/4d258d35daedc09a384933781c6d93a7f7b6ba40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_f0ef270a1b450f649c9e0bc808db855a9c1ec613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/383b7e0d13531afc56877358914063ecb891790a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_ab0c61d89995b8b319b248e813797f96cf454a0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/ad44e19b331071632b04dfddcbd2ee05e062777c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_9adb9761c44eb863041b15cc219171df1b7eadf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/45135fb361f15869e24b68ca0c3bda48ed20ab90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_d9043b2ce1b204cc0370fb66578633e375fa8253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/3840b7cf012794c09ae17b6629310ba546662bc2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_81fdcde331368359a8b117334a87c16ad6182e23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/a0b9b8b6a62e65e9cf886f6156077110dfd6d1c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_902908319eac520dbe7bc816e74797271c038df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edwingon/.android/build-cache/059ff46b64adf6d27eafa9b17760d403596e5f21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/edwingon/AndroidStudioProjects/FeelWellApp/app/build/intermediates/pre-dexed/debug/classes_916c23ddd148c575cc9608599fd9a0590712bd67.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string-array name="intenstiy_activity">-->
+        <!--<item>Light</item>-->
+        <!--<item>Moderate</item>-->
+        <!--<item>Intense</item>-->
+    <!--</string-array>-->
+
+
+    <string-array name="achievements">
+        <item>Create 5 thoughts.</item>
+        <item>Enter 5 different foods into log.</item>
+        <item>Entered resources 5 times.</item>
+        <item>Sign in 5 times.</item>
+    </string-array>
+
+
+
+</resources>

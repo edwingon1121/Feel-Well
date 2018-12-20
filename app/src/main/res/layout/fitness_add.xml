@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#EEEEEEEE"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_back_fitness"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleTextColor="@android:color/black"
+        android:background="?attr/colorAccent">
+    </android.support.v7.widget.Toolbar>
+
+
+    <TextView
+        android:id="@+id/type_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar_back_fitness"
+        android:text="@string/name_label"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/edit_title_fitness"
+        android:hint="@string/fitness_hint"
+        android:background="@android:color/white"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="16dp"
+        android:paddingStart="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_below="@+id/type_label"/>
+
+    <TextView
+        android:id="@+id/fitness_duration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_title_fitness"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="48dp"
+        android:text="@string/duration_title"
+        android:textSize="18dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <EditText
+        android:id="@+id/duration_edit"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_toEndOf="@+id/fitness_duration"
+        android:layout_below="@+id/edit_title_fitness"
+        android:hint="@string/hint_duration"
+        android:background="@android:color/white"
+        android:layout_marginTop="32dp"
+        android:paddingStart="8dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"/>
+
+    <!--android:entries="@arrays/intensity_activity"-->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/add_activity"
+        android:text="@string/add_label"
+        android:layout_below="@+id/fitness_duration"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"/>
+
+
+</RelativeLayout>

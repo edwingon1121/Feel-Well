@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "954533404762",
+    "firebase_url": "https://feelwellapp.firebaseio.com",
+    "project_id": "feelwellapp",
+    "storage_bucket": "feelwellapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954533404762:android:6d232183199ef14d",
+        "android_client_info": {
+          "package_name": "itp341.gonzalez.edwin.feelwellapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954533404762-k78q4u07pf2484ab2rn2fr6e0fb3ajj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itp341.gonzalez.edwin.feelwellapp",
+            "certificate_hash": "36066bf5d410a14cdc48cc8f00e7d019231d79f9"
+          }
+        },
+        {
+          "client_id": "954533404762-5cchubhpr9id7r49p8qmm3hmjhccqkua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH0GaEm9aLJfaPXgLVRQ9lvmfZRNu5Mqs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954533404762-5cchubhpr9id7r49p8qmm3hmjhccqkua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

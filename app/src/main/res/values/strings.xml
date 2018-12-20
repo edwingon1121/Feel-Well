@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">FeelWell</string>
+    
+    <string name="thought_activity">THOUGHTS</string>
+    <string name="foood_activity">FOOD</string>
+    <string name="fitness_activity">FITNESS</string>
+    <string name="resources_activity">RESOURCES</string>
+
+    <string name="total_calories">Total Calories: </string>
+    <string name="activity_name">Activities completed</string>
+    <string name="duration_amount">Duration </string>
+    <string name="filter_button">Filter </string>
+
+    <string name="achievements_complete">Achievements met: </string>
+    <string name="achievements_inc">Achievements left: </string>
+
+    <string name="email_label">Email:</string>
+    <string name="password_label">Password: </string>
+    <string name="login_label">Log in</string>
+    <string name="email_hint">example@mail.com</string>
+    <string name="pasword_hint">************</string>
+    
+    <string name="sign_up">New User? Sign Up here.</string>
+    <string name="sign_up_title">FeelWell: Sign Up</string>
+
+    <string name="city_label">City: </string>
+    <string name="name_hint">Ex: Jeff</string>
+    <string name="button_signUp">SIGN UP</string>
+    <string name="city_hint">Ex: Los Angeles</string>
+
+
+    
+    <string name="title_label">Title:</string>
+    <string name="title_hint">How to get better?</string>
+    <string name="thought_label">The Thought:</string>
+    <string name="thought_hint">What\'s on your mind?</string>
+    <string name="add_label">ADD</string>
+
+    <string name="name_label">Name:</string>
+    <string name="calorie_label">Calories:</string>
+    <string name="food_name_hint">Ex: Eggs</string>
+
+    <string name="type_label">Type:</string>
+    <string name="fitness_hint">Ex: High Intensity Interval Training</string>
+    <string name="duration_title">Duration:</string>
+
+    <string name="Forms_title">RESOURCES</string>
+
+    <string name="start_value">0</string>
+
+    <string name="auth_failed">Invaild User. Check email or password.</string>
+    <string name="auth_missing">Missing Field.</string>
+
+    <string name="miss_email">Missing Email or invalid. Must contain @ sign .</string>
+    <string name="miss_pass">Missing Password or Invalid Password. Must be 8 characters long.</string>
+    <string name="miss_name">Missing Name.</string>
+    <string name="miss_city">Missing City.</string>
+
+    <string name="no_activity_name">Please enter activity name.</string>
+    <string name="no_length_activity">Please enter length of activity.</string>
+
+    <string name="login_success">SUCCESS!</string>
+
+    <string name="date_default">"11/29/2050"</string>
+    <string name="total_title">Total Notes: </string>
+
+    <string name="locked_title">LOCKED</string>
+    <string name="unlocked_title">UNLOCKED</string>
+
+    <string name="hint_duration">Ex.30mins</string>
+
+
+</resources>

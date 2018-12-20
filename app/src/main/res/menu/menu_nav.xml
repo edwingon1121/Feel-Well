@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/thought"
+        android:icon="@drawable/thought_bubble"
+        app:showAsAction="ifRoom"
+        android:title="Thoughts">
+    </item>
+
+    <item
+        android:id="@+id/food"
+        android:icon="@drawable/food_icon"
+        app:showAsAction="ifRoom"
+        android:title="Food">
+    </item>
+
+    <item
+        android:id="@+id/fitness"
+        android:icon="@drawable/weight_icon"
+        app:showAsAction="ifRoom"
+        android:title="Fitness">
+    </item>
+
+    <item
+        android:id="@+id/forms"
+        android:icon="@drawable/forms"
+        app:showAsAction="ifRoom"
+        android:title="Forms"></item>
+
+    <item
+        android:id="@+id/Sign_Out"
+        app:showAsAction="ifRoom"
+        android:title="Sign Out">
+
+    </item>
+
+
+</menu>
